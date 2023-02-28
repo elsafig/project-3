@@ -1,0 +1,188 @@
+[
+    {
+        "state": "California",
+        "country": "United States",
+        "lat": 36.7014631,
+        "lon": -118.755997
+    },
+    {
+        "state": "Washington",
+        "country": "United States",
+        "lat": 47.2868352,
+        "lon": -120.212613
+    },
+    {
+        "state": "Georgia",
+        "country": "United States",
+        "lat": 32.3293809,
+        "lon": -83.1137366
+    },
+    {
+        "state": "Missouri",
+        "country": "United States",
+        "lat": 38.7604815,
+        "lon": -92.5617875
+    },
+    {
+        "state": "Arkansas",
+        "country": "United States",
+        "lat": 35.2048883,
+        "lon": -92.4479108
+    },
+    {
+        "state": "Illinois",
+        "country": "United States",
+        "lat": 40.0796606,
+        "lon": -89.4337288
+    },
+    {
+        "state": "Florida",
+        "country": "United States",
+        "lat": 27.7567667,
+        "lon": -81.4639835
+    },
+    {
+        "state": "South Carolina",
+        "country": "United States",
+        "lat": 33.6874388,
+        "lon": -80.4363743
+    },
+    {
+        "state": "Maryland",
+        "country": "United States",
+        "lat": 39.5162401,
+        "lon": -76.9382069
+    },
+    {
+        "state": "Utah",
+        "country": "United States",
+        "lat": 39.4225192,
+        "lon": -111.714358
+    },
+    {
+        "state": "Pennsylvania",
+        "country": "United States",
+        "lat": 40.9699889,
+        "lon": -77.7278831
+    },
+    {
+        "state": "HA",
+        "country": "United States",
+        "lat": 31.3665768,
+        "lon": -85.84823480692984
+    },
+    {
+        "state": "Alley, MO",
+        "country": "United States",
+        "lat": 37.1522712,
+        "lon": -91.4434708
+    },
+    {
+        "state": "United States",
+        "country": "United States",
+        "lat": 39.7837304,
+        "lon": -100.445882
+    },
+    {
+        "state": "Nevada",
+        "country": "United States",
+        "lat": 39.5158825,
+        "lon": -116.8537227
+    },
+    {
+        "state": "New York",
+        "country": "United States",
+        "lat": 43.1561681,
+        "lon": -75.8449946
+    },
+    {
+        "state": "Oregon",
+        "country": "United States",
+        "lat": 43.9792797,
+        "lon": -120.737257
+    },
+    {
+        "state": "Arizona",
+        "country": "United States",
+        "lat": 34.395342,
+        "lon": -111.763275
+    },
+    {
+        "state": "New Jersey",
+        "country": "United States",
+        "lat": 40.0757384,
+        "lon": -74.4041622
+    },
+    {
+        "state": "North Carolina",
+        "country": "United States",
+        "lat": 35.6729639,
+        "lon": -79.0392919
+    },
+    {
+        "state": "Idaho",
+        "country": "United States",
+        "lat": 43.6447642,
+        "lon": -114.015407
+    },
+    {
+        "state": "Ohio",
+        "country": "United States",
+        "lat": 40.2253569,
+        "lon": -82.6881395
+    },
+    {
+        "state": "Iowa",
+        "country": "United States",
+        "lat": 41.9216734,
+        "lon": -93.3122705
+    },
+    {
+        "state": "Vale",
+        "country": "United States",
+        "lat": 38.8907693,
+        "lon": -77.3482828
+    },
+    {
+        "state": "Colorado",
+        "country": "United States",
+        "lat": 38.7251776,
+        "lon": -105.607716
+    },
+    {
+        "state": "Indiana",
+        "country": "United States",
+        "lat": 40.3270127,
+        "lon": -86.1746933
+    },
+    {
+        "state": "Texas",
+        "country": "United States",
+        "lat": 31.2638905,
+        "lon": -98.5456116
+    },
+    {
+        "state": "Delaware",
+        "country": "United States",
+        "lat": 38.6920451,
+        "lon": -75.4013315
+    },
+    {
+        "state": "New Hampshire",
+        "country": "United States",
+        "lat": 43.4849133,
+        "lon": -71.6553992
+    },
+    {
+        "state": "Tennessee",
+        "country": "United States",
+        "lat": 35.7730076,
+        "lon": -86.2820081
+    },
+    {
+        "state": "Hawaii",
+        "country": "United States",
+        "lat": 19.593801499999998,
+        "lon": -155.42837009716908
+    }
+]
